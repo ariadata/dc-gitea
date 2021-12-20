@@ -1,9 +1,9 @@
 # gitea with docker-compose
 [![Build Status](https://files.ariadata.co/file/ariadata_logo.png)](https://ariadata.co)
 
-![](https://img.shields.io/github/stars/ariadata/dc-nginxproxymanager.svg)
-![](https://img.shields.io/github/watchers/ariadata/dc-nginxproxymanager.svg)
-![](https://img.shields.io/github/forks/ariadata/dc-nginxproxymanager.svg)
+![](https://img.shields.io/github/stars/ariadata/dc-gitea.svg)
+![](https://img.shields.io/github/watchers/ariadata/dc-gitea.svg)
+![](https://img.shields.io/github/forks/ariadata/dc-gitea.svg)
 
 > This needs : [nginx-proxy-manager with docker-compose](https://github.com/ariadata/dc-nginxproxymanager) .
 
