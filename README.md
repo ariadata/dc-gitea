@@ -21,7 +21,7 @@ cd dc-gitea
 ```sh
 docker-compose up -d
 ```
-#### 3- Goto Nginx-Proxy-Manager admin panel and add this stack as proxy-host :
+#### 5- Goto Nginx-Proxy-Manager admin panel and add this stack as proxy-host :
 > Domain : `Your-FQDN`
 > 
 > Schema : `http`
@@ -32,14 +32,14 @@ docker-compose up -d
 >
 > SSL is Recommended!
 
-#### 5- Goto gitea setup page : 
+#### 6- Goto gitea setup page : 
 >  `http://Your-FQDN/`
 >  
 >  or 
 >  
 >  `http://Your-IP:3000`
 
-#### 6- Important Parts in Setup :
+#### 7- Important Parts in Setup :
 > Gitea HTTP Listen Port : `3000`
 >
 > Gitea Base URL : `https://Your-FQDN/` or with `http` if not configured
