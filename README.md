@@ -1,5 +1,5 @@
 # gitea with docker-compose
-[![Build Status](https://files.ariadata.co/file/ariadata_logo.png)](https://ariadata.co)
+[![Build Status](https://raw.githubusercontent.com/ariadata/public-files/main/assets/ariadata-logo-300x120.png)](https://ariadata.co)
 
 ![](https://img.shields.io/github/stars/ariadata/dc-gitea.svg)
 ![](https://img.shields.io/github/watchers/ariadata/dc-gitea.svg)
